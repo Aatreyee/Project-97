@@ -11,4 +11,4 @@ while guess != num:
         print("congratulations! you won!")
         break
     else:
-        print("nope, sorry. try again!")
+        print("Guess the number once again")
