@@ -11,4 +11,4 @@ while guess != num:
         print("congratulations! you won!")
         break
     else:
-       print("Your Guess was too low . Guess a number greater than ",guess)
+       print("Your Guess was too low. Guess a number greater than ",guess)
